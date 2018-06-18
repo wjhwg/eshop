@@ -13,18 +13,18 @@
 
 ***
 1. **前端数据处理/交互/组件化**
-    *1.1  Vue全家桶技术栈
-      * 1.1.1 vue
-      * 1.1.2 vue-router
-      * 1.1.3 vuex
-      * 1.1.4 vue-lazyload
-      * 1.1.5 vue-scroller
-    *1.2 滑动库
-      * 1.2.1 better-scroll
-      * 1.2.2 swiper
-    *1.3 日期处理
-      * 1.3.1 moment
-      * 1.3.2 date-fns
+    * 1.1  Vue全家桶技术栈
+        * 1.1.1 vue
+        * 1.1.2 vue-router
+        * 1.1.3 vuex
+        * 1.1.4 vue-lazyload
+        * 1.1.5 vue-scroller
+    * 1.2 滑动库
+        * 1.2.1 better-scroll
+        * 1.2.2 swiper
+    * 1.3 日期处理
+        * 1.3.1 moment
+        * 1.3.2 date-fns
 2. **前后台交互**
     2. 1 mock数据：mock.js
     2. 2 接口测试：postman
