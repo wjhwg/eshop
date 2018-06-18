@@ -312,12 +312,23 @@
 
 <script>
 import HeaderTop from '../../components/HeaderTop/HeaderTop'
+import Swiper from 'swiper'
+import 'swiper/dist/css/swiper.min.css'
 export default {
   name: 'MSite',
   data () {
     return {
       msg: 'Welcome to Your Vue.js App'
     }
+  },
+  mounted () {
+    /* eslint-disable */
+    new Swiper('.swiper-container', {
+      loop: true,
+      pagination: {
+        el: '.swiper-pagination'
+      }
+    })
   },
   components: {
     HeaderTop
@@ -409,9 +420,9 @@ export default {
                   width 100%
                   .shop_title
                     float left
-                    width 200px
+                    width 160px
                     color #333
-                    font-size 16px
+                    font-size 14px
                     line-height 16px
                     font-weight 700
                     &::before
