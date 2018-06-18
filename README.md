@@ -26,17 +26,17 @@
         * 1.3.1 moment
         * 1.3.2 date-fns
 2. **前后台交互**
-    * 2.1 mock数据：mock.js
-    * 2.2 接口测试：postman
-    * 2.3 ajax请求
+    * 2.1  mock数据：mock.js
+    * 2.2  接口测试：postman
+    * 2.3  ajax请求
         * 2.3.1 vue-resource
         * 2.3.2 axios
 3. **模块化**
-    * 3.1 ES6
-    * 3.2 babel
+    * 3.1  ES6
+    * 3.2  babel
 4. **项目构建/工程化**
-    * 4.1 webpack
-    * 4.2 vue-cli
-    * 4.3 eslint
+    * 4.1  webpack
+    * 4.2  vue-cli
+    * 4.3  eslint
 5. **css预编译器**
-    * 5.1 stylus
+    * 5.1  stylus
